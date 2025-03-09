@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "code-blitz-bot",
+  "private_key_id": "79637b09410f32f8c4ed4587eee57d30e7274618",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDA/saD6Z4ThcJX\nn+ovltDbHWgxhCxWzpMPc5tzW1g+KKXWoSPL4nF0MVubYzxzOzOrZIJvyR5D08hp\nTqH3FxP6bUXcsvmpJVAWBBBWNgN2KOwRTBc1QbaXC+wbw1hDWGO+4l2lrUie3lg4\nwBGW6wvUlbgADV2DWbR9tBqRIY+/sfgKeHK45xv1Q3NMxzfkzfuD6UIBCHsoQt7d\nrubvc/uk/oG1EDuldzIeacBcGE/AkX8bzyt4pixUDCVZRj4MGPPfZIro5Bci3Mqn\njETtcNzDbUjDuGL1GnXS9R3mW9bx6nL94kUgPh09d96j7HVOBgIOyxK2B8Nz539G\n9MIOV39BAgMBAAECggEAMeZuC5Nu5NtT2XYmhfF3xP/AffUPxc4ZpggdLGF02nWG\nE42MhN3iuck9R1sMOTsYa/tL4n1czurGSbwkEpAsATcZtiusc7iLEXYxhyjmEjoY\nd4x1/7Yi8MELZk5G1vrWp3c+AWVhfno800eOBLh3UZr4fUL3Z8vc6BeWOuozkbuN\n4dQ8SwCn59t9xaf6vECJnFX2EnSWcrUg3+o0cCATvZpKnfqf9Kcuaoq2JTHsT3Wj\nDrSRAd6vQv5sORscQ9/jtDjGGDz1lDhMjgzH8c8/k35DzRvHhfHeZc9cW6jfZgUE\nAXhcv8rH5/oj7o4NWpturQSDvQaCUG1ffkoit4nFhQKBgQDy7fmDgKpcP8cnTVmv\nJg1MZ4kzD3R0u81NySVePWq7x0thTBV2X49+nka6Oo/j6fF5LNldcRLdR8XikiYT\nuByF6vcVuy0IkLIUbeFHWCG2Cunl4fFIsx/9K+Zq40piRM2F4cJPR+rj1sJbNdJ3\nH/99+5lagDOoVoyzKvQMDsfjpwKBgQDLYQXIsQJQTAccrZ+YXO0aTUkLDgA+NkJb\noObVc+Pve5b+JEf8rxU0W7muw7pnrZAq2fsz3TAYMl2hEnZ0dje/q7EezsMpNACc\nLJ/6JRYVaUaWoqJGiuW5JvZ+gy2SAHxzqrStXvy0/GFdaJpCNwSMMjUbfWuSEtwL\nfcUzm9AC1wKBgQDL/IYzJTxoP+nEF9CCIUqzaJEtfgHE79niQlANhTb1vNCQP+oZ\nvv5oTRGI2RnwQIZSwRU4wHUduGHy8dPlZQkWbonSBp02/wF55BZx6RBNo3ZqYUJR\nUJBA77cI9BiG0c1eaYbXOcWEUdZb7qLvAsBwEm/gLZyy8xIsdJn+8f5pKwKBgQCE\nqvq56vXmaWHuTDgijOPCV44BXxW7f2uUGAbcUOfsbcOWbxZid9euOvOKVHWBck/s\nFBvwviXEcv5utvt8hy1go+A7h4b5lsmbFuUYqR6Zwv3f/6E5wRuPxyHebzXH2vdU\nAJQx0Beq/EOLSlPuQ7N8vLe2Af+s3w6ZlGaSft6XKwKBgQC7m5jkJc+tZdBLCYt/\nrK96A3wU38q19zgz8LMa6waq1D6yL+iOxpkbt4JCgsPeFN4NjFeWLEs5ktfRu7rO\nnogrY+zJPGl0k2lUE/A7xF2uFrPgeiPfSFb1zIF/Csms0utVhSJmcuTfSoIgxCUK\nyqwaC53uq42moy0qhs4n2nSVdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "code-blitz-bot@code-blitz-bot.iam.gserviceaccount.com",
+  "client_id": "115579596195129016454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/code-blitz-bot%40code-blitz-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
