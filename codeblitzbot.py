@@ -2,9 +2,8 @@ import time
 import gspread
 import requests
 from oauth2client.service_account import ServiceAccountCredentials
-from datetime import datetime, timedelta  # Import timedelta for time conversion
+from datetime import datetime, timedelta
 
-# Google Sheets setup
 SHEET_NAME = "CodeBlitzTestRound"
 JSON_KEY_FILE = "google_sheets_key.json"
 
@@ -16,8 +15,8 @@ BATTLES = {
     # Add more battles here...
 }
 
-# ✅ Same problem set for all battles
-# ✅ Updated problem set
+# ✅ Problem IDs and their points
+
 # PROBLEM_IDS = {
 #     "1921/A": {"points": 200},  # One and Two
 #     "1920/B": {"points": 200},  # Make it Beautiful
@@ -25,6 +24,7 @@ BATTLES = {
 #     "1918/B": {"points": 200},  # Extremely Round
 #     "1917/A": {"points": 200},  # Two Permutations
 # }
+
 PROBLEM_IDS = {
     "1881/A": {"points": 200},
     "1878/A": {"points": 200},
@@ -136,4 +136,4 @@ def update_leaderboard(battle, team, problem_id, readable_time=None, remove_poin
 while True:
     check_submissions()
     print("Waiting for the next check...")
-    time.sleep(30)  # Wait for 5 minutes
+    time.sleep(300)  # Wait for 5 minutes
