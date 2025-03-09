@@ -11,7 +11,7 @@ JSON_KEY_FILE = "google_sheets_key.json"
 # ✅ ENTER TEAMS IN BATTLES HERE (Each battle is a 1v1 match)
 BATTLES = {
     "Battle 1": ["sunkavallisathvik", "QuantumSolver07"],
-    # "Battle 2": ["TeamC", "TeamD"],
+    "Battle 2": ["pardhu_dev", "Pardheev_dev"],
     # "Battle 3": ["TeamE", "TeamF"],
     # Add more battles here...
 }
